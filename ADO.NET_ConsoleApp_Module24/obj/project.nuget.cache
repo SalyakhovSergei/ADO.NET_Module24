@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s/cZP+g/dsNC59mB/5dzjw7qUk3arqYYwLRUag0t0fxfyNly50tKc7p8L6aA3WlXmyX6LTGJbsyZPNbfvVhW3A==",
+  "dgSpecHash": "cZ9tLmLgR6ZYbnifMCYQ8xJH+FIumemk3N8s/rVHgNfzUduRpQMClWSCRKmIOi+aLDM653nUv1rovwGZ8vNKdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NEY_ConsoleApp_Module24\\ADO.NEY_ConsoleApp_Module24.csproj",
+  "projectFilePath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\ADO.NET_ConsoleApp_Module24.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Анатолий\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Анатолий\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

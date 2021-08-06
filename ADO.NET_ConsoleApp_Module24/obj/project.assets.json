@@ -478,11 +478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NEY_ConsoleApp_Module24\\ADO.NEY_ConsoleApp_Module24.csproj",
-      "projectName": "ADO.NEY_ConsoleApp_Module24",
-      "projectPath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NEY_ConsoleApp_Module24\\ADO.NEY_ConsoleApp_Module24.csproj",
+      "projectUniqueName": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\ADO.NET_ConsoleApp_Module24.csproj",
+      "projectName": "ADO.NET_ConsoleApp_Module24",
+      "projectPath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\ADO.NET_ConsoleApp_Module24.csproj",
       "packagesPath": "C:\\Users\\Анатолий\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NEY_ConsoleApp_Module24\\obj\\",
+      "outputPath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Анатолий\\AppData\\Roaming\\NuGet\\NuGet.Config",

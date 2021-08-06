@@ -1,4 +1,5 @@
-﻿using System.Data;
+﻿using System;
+using System.Data;
 using System.Data.SqlClient;
 using System.Threading.Tasks;
 
@@ -30,8 +31,16 @@ namespace ADO.NET_Module24
                 await _connection.CloseAsync();
             }
         }
-        
-        
+
+        public SqlConnection GetConnection()
+        {
+            if (_connection.State == ConnectionState.Open)
+                return _connection;
+            else
+            {
+                throw new Exception("Connection is already closed");
+            }
+        }
         
         
     }

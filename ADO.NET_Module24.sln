@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET_Module24", "ADO.NET_Module24\ADO.NET_Module24.csproj", "{04A18CA7-E73F-4FDE-9030-2E2FC4FEC1E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NEY_ConsoleApp_Module24", "ADO.NEY_ConsoleApp_Module24\ADO.NEY_ConsoleApp_Module24.csproj", "{51A7E167-1AE8-4187-899B-DC47878549F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET_ConsoleApp_Module24", "ADO.NET_ConsoleApp_Module24\ADO.NET_ConsoleApp_Module24.csproj", "{51A7E167-1AE8-4187-899B-DC47878549F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
