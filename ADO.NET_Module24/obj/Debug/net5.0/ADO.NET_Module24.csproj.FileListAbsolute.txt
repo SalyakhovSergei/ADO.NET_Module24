@@ -1,0 +1,12 @@
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\bin\Debug\net5.0\ADO.NET_Module24.deps.json
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\bin\Debug\net5.0\ADO.NET_Module24.dll
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\bin\Debug\net5.0\ref\ADO.NET_Module24.dll
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\bin\Debug\net5.0\ADO.NET_Module24.pdb
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\obj\Debug\net5.0\ADO.NET_Module24.csproj.AssemblyReference.cache
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\obj\Debug\net5.0\ADO.NET_Module24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\obj\Debug\net5.0\ADO.NET_Module24.AssemblyInfoInputs.cache
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\obj\Debug\net5.0\ADO.NET_Module24.AssemblyInfo.cs
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\obj\Debug\net5.0\ADO.NET_Module24.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\obj\Debug\net5.0\ADO.NET_Module24.dll
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\obj\Debug\net5.0\ref\ADO.NET_Module24.dll
+C:\Users\Анатолий\RiderProjects\ADO.NET_Module24\ADO.NET_Module24\obj\Debug\net5.0\ADO.NET_Module24.pdb
