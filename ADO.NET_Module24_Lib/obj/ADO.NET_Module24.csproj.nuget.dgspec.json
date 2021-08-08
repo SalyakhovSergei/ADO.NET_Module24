@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\ADO.NET_Module24.csproj": {}
+    "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\ADO.NET_Module24.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\ADO.NET_Module24.csproj": {
+    "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\ADO.NET_Module24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\ADO.NET_Module24.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\ADO.NET_Module24.csproj",
         "projectName": "ADO.NET_Module24",
-        "projectPath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\ADO.NET_Module24.csproj",
-        "packagesPath": "C:\\Users\\Анатолий\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\obj\\",
+        "projectPath": "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\ADO.NET_Module24.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Анатолий\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

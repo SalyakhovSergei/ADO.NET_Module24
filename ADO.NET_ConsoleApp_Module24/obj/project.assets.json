@@ -131,17 +131,17 @@
           }
         }
       },
-      "ADO.NET_Module24/1.0.0": {
+      "ADO.NET_Module24_Lib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "System.Data.SqlClient": "4.8.2"
         },
         "compile": {
-          "bin/placeholder/ADO.NET_Module24.dll": {}
+          "bin/placeholder/ADO.NET_Module24_Lib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ADO.NET_Module24.dll": {}
+          "bin/placeholder/ADO.NET_Module24_Lib.dll": {}
         }
       }
     }
@@ -460,32 +460,32 @@
         "version.txt"
       ]
     },
-    "ADO.NET_Module24/1.0.0": {
+    "ADO.NET_Module24_Lib/1.0.0": {
       "type": "project",
-      "path": "../ADO.NET_Module24/ADO.NET_Module24.csproj",
-      "msbuildProject": "../ADO.NET_Module24/ADO.NET_Module24.csproj"
+      "path": "../ADO.NET_Module24_Lib/ADO.NET_Module24_Lib.csproj",
+      "msbuildProject": "../ADO.NET_Module24_Lib/ADO.NET_Module24_Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "ADO.NET_Module24 >= 1.0.0",
+      "ADO.NET_Module24_Lib >= 1.0.0",
       "System.Data.SqlClient >= 4.8.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Анатолий\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\ADO.NET_ConsoleApp_Module24.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\ADO.NET_ConsoleApp_Module24.csproj",
       "projectName": "ADO.NET_ConsoleApp_Module24",
-      "projectPath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\ADO.NET_ConsoleApp_Module24.csproj",
-      "packagesPath": "C:\\Users\\Анатолий\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\obj\\",
+      "projectPath": "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\ADO.NET_ConsoleApp_Module24.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Анатолий\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -499,8 +499,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\ADO.NET_Module24.csproj": {
-              "projectPath": "C:\\Users\\Анатолий\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24\\ADO.NET_Module24.csproj"
+            "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24_Lib\\ADO.NET_Module24_Lib.csproj": {
+              "projectPath": "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24_Lib\\ADO.NET_Module24_Lib.csproj"
             }
           }
         }

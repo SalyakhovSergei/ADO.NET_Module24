@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Data;
-using ADO.NET_Module24;
+using ADO.NET_Module24_Lib;
 
 namespace ADO.NET_ConsoleApp_Module24
 {
@@ -8,43 +8,16 @@ namespace ADO.NET_ConsoleApp_Module24
     {
         static void Main(string[] args)
         {
-            var connector = new MainConnector();
-            var data = new DataTable();
+            var manager = new Manager();
 
-            var result = connector.ConnectAsync();
-            if (result.Result)
-            {
-                Console.WriteLine("Connection succeeded");
-                var db = new DbExecutor(connector);
-                string tableName = "NetworkUser";
-                Console.WriteLine("Get data from " + tableName);
-                data = db.SelectAll(tableName);
-                Console.WriteLine("Количество строк в " + tableName + ": " + data.Rows.Count);
+            manager.Connect();
 
-                foreach (DataColumn column in data.Columns)
-                {
-                    Console.Write($"{column.ColumnName}\t");
-                }
-                
-                Console.WriteLine();
+            manager.ShowData();
 
-                foreach (DataRow row in data.Rows)
-                {
-                    var cels = row.ItemArray;
-                    foreach (var cell in cels)
-                    {
-                        Console.Write($"{cell}\t");
-                    }
-                    Console.WriteLine();
-                }
+            manager.Disconnect();
 
-                Console.WriteLine("Disconnect from DataBase");
-                connector.DisconnectAsync();
-            }
-            else
-            {
-                Console.WriteLine("Connection failed");
-            }
+            Console.ReadKey();
+
         }
     }
 }

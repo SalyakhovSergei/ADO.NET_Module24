@@ -11,7 +11,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\ADO.NET_Module24\ADO.NET_Module24.csproj" />
+      <ProjectReference Include="..\ADO.NET_Module24_Lib\ADO.NET_Module24_Lib.csproj" />
     </ItemGroup>
 
 </Project>

@@ -3,7 +3,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Threading.Tasks;
 
-namespace ADO.NET_Module24
+namespace ADO.NET_Module24_Lib
 {
     public class MainConnector
     {

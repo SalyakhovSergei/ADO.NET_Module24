@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HR2FVERUcSAjRt9QStyG8/RHcXiRwhnQlcbznFO79YyvAjhLv2S+AetMXOgtDI4gMRrovfCWiZKdsLRDTQxSkw==",
+  "dgSpecHash": "FrNWnU93H18EsAAu06IVFP7Ka6bzE+j2S6WU7vmGImLkikd/IPduktT/A4vf97YYbHjibliH/4Xl1tOZq5aUgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_ConsoleApp_Module24\\ADO.NET_ConsoleApp_Module24.csproj",
+  "projectFilePath": "C:\\Users\\admin\\RiderProjects\\ADO.NET_Module24\\ADO.NET_Module24_Lib\\ADO.NET_Module24_Lib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

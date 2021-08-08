@@ -1,7 +1,7 @@
 ﻿using System.Data;
 using System.Data.SqlClient;
 
-namespace ADO.NET_Module24
+namespace ADO.NET_Module24_Lib
 {
     public class DbExecutor
     {
@@ -14,8 +14,8 @@ namespace ADO.NET_Module24
         public DataTable SelectAll(string table) 
         {
             string selectcommandtext = "select * from " + table;
-            var adapter = new SqlDataAdapter(selectcommandtext, _connector.GetConnection());
-            var dataSet = new DataSet();
+            SqlDataAdapter adapter = new SqlDataAdapter(selectcommandtext, _connector.GetConnection());
+            DataSet dataSet = new DataSet();
             adapter.Fill(dataSet);
             return dataSet.Tables[0];
         }
