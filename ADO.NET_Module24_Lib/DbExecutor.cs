@@ -31,7 +31,6 @@ namespace ADO.NET_Module24_Lib
 
             SqlDataReader reader = command.ExecuteReader();
             
-
             if (reader.HasRows) 
             {
                 return reader;
@@ -48,9 +47,34 @@ namespace ADO.NET_Module24_Lib
                 CommandText = "delete from " + table + " where " + column + " = '" + value + "';",
                 Connection = _connector.GetConnection(),
             };
+            return command.ExecuteNonQuery();
+        }
+        
+        public int ExecProcedureAdding(string name, string login) 
+        {
+            var command = new SqlCommand 
+            {
+                CommandType = CommandType.StoredProcedure,
+                CommandText = "AddingUserProc",
+                Connection = _connector.GetConnection(),
+            };
+
+            command.Parameters.Add(new SqlParameter("@Name", name));
+            command.Parameters.Add(new SqlParameter("@Login", login));
 
             return command.ExecuteNonQuery();
+        }
+        
+        public int UpdateByColumn(string table, string columntocheck, string valuecheck, string columntoupdate, string valueupdate) 
+        {
+            var command = new SqlCommand 
+            {
+                CommandType = CommandType.Text,
+                CommandText = "update   " + table + " set " + columntoupdate + " = '" + valueupdate + "'  where " + columntocheck + " = '" + valuecheck + "';",
+                Connection = _connector.GetConnection(),
+            };
 
+            return command.ExecuteNonQuery();
         }
         
     }
